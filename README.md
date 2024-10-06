@@ -2,7 +2,7 @@
 
 Generating random cold readings
 
-This is my system to practice cold reading without scripts by creating your own readings on the fly. The word list contains over 600 words that can be combined randomly and still express anything that you want to.  Here is how it works:
+This is my cold reading system that works without scripts by creating your own improv readings on the fly. The word list contains over 600 words that can be combined randomly and still express anything that you want to.  Here is how it works:
 
 Run prompt.exe with words.txt & the number of prompts to generate.
 
