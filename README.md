@@ -6,6 +6,8 @@ Generates random cold reading prompts for improvised, unscripted readings.
 
 ---
 
+<br>
+
 💡 What It Does
 
 The program selects words at random from a curated list of 945 words. These words can be combined in endless ways to inspire personalized, meaningful readings.
@@ -13,6 +15,8 @@ The program selects words at random from a curated list of 945 words. These word
 <br>
 
 ---
+
+<br>
 
 🚀 How to Use
 
@@ -37,8 +41,11 @@ over
 Example Reading:
 You're able to focus on what's important, and it will become easier for you over time.
 
+<br>
 
 ---
+
+<br>
 
 📦 Files
 
@@ -46,9 +53,11 @@ prompt.py – The main script
 
 words.txt – A list of 945 suggestive, flexible words
 
-
+<br>
 
 ---
+
+<br>
 
 ⚙️ Compatibility
 
