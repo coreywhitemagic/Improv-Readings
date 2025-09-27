@@ -20,13 +20,19 @@ Run the script with the word list and the number of prompts you want:
 
 python prompt.py words.txt 3
 
+<br>
+
 🔮 Example Output
 
 Prompts:
 
 able
+
 easy
+
 over
+
+<br>
 
 Example Reading:
 You're able to focus on what's important, and it will become easier for you over time.
