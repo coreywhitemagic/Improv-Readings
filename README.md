@@ -1,24 +1,51 @@
-# Improvisational Readings
+# 🎤 Improvisational Readings
 
-Generating random cold readings
+Generate random cold reading prompts for improvised, unscripted readings.
 
-This is my cold reading system that works without scripts by creating your own improv readings on the fly. The word list contains 945 words, which can be combined randomly and still express anything that you want them to.  Here is how it works:
 
-Run prompt.exe with words.txt & the number of prompts to generate.
+---
 
-Example
+💡 What It Does
 
-.\prompt.exe words.txt 3
+The program selects words at random from a curated list of 945 versatile terms. These words can be combined in endless ways to inspire personalized, meaningful-sounding readings.
+
+
+---
+
+🚀 How to Use
+
+Run the script with the word list and the number of prompts you want:
+
+python prompt.py words.txt 3
+
+🔮 Example Output
 
 Prompts:
 
 able
-
 easy
-
 over
 
-Example reading:
-
+Example Reading:
 You're able to focus on what's important, and it will become easier for you over time.
+
+
+---
+
+📦 Files
+
+prompt.py – The main script
+
+words.txt – A list of 945 suggestive, flexible words
+
+
+
+---
+
+⚙️ Compatibility
+
+✅ Works on Windows, macOS, Linux
+
+✅ Runs on Android via Termux or any Python environment
+
 
