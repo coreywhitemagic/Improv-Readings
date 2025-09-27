@@ -1,6 +1,6 @@
 # 🎤 Improvisational Readings
 
-Generates random cold reading prompts for improvised, unscripted readings.
+Generate random cold reading prompts for improvised, unscripted readings.
 
 <br>
 
