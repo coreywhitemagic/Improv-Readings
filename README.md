@@ -2,12 +2,13 @@
 
 Generate random cold reading prompts for improvised, unscripted readings.
 
+<br>
 
 ---
 
 💡 What It Does
 
-The program selects words at random from a curated list of 945 versatile terms. These words can be combined in endless ways to inspire personalized, meaningful readings.
+The program selects words at random from a curated list of 945 words. These words can be combined in endless ways to inspire personalized, meaningful readings.
 
 <br>
 
